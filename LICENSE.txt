@@ -1,0 +1,15 @@
+Licencia para Uso Libre del Código
+
+Versión 1.0, Julio 2023
+
+Se concede el permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y archivos de documentación asociados (en adelante, "el Software"), para utilizar el Software sin restricciones, incluyendo, sin limitación, los derechos de usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del Software y permitir a las personas a las que se les proporcione el Software a hacer lo mismo, sujeto a las siguientes condiciones:
+
+1. Se prohíbe el uso del Software con fines comerciales. El Software se proporciona únicamente para uso personal, educativo o de investigación.
+
+2. Se prohíbe la redistribución del Software sin incluir esta licencia y el reconocimiento adecuado al autor original del Software.
+
+3. El autor del Software no se hace responsable de cualquier daño directo, indirecto, incidental, especial, ejemplar o consecuencial (incluyendo, pero no limitado a, la adquisición de bienes o servicios sustitutos, la pérdida de uso, datos o beneficios; o interrupción del negocio) que pudiera surgir de la utilización del Software, incluso si se ha advertido de la posibilidad de tales daños.
+
+4. Este acuerdo se rige por las leyes del país en el que reside el autor del Software, y cualquier disputa relacionada con este acuerdo se someterá a la jurisdicción exclusiva de los tribunales de ese país.
+
+Al utilizar este Software, se entiende que se han aceptado los términos y condiciones de esta licencia.
