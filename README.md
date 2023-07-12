@@ -6,10 +6,10 @@ Bienvenido al README de ADVENTURE CASTLE, un juego de aventura narrativa desarro
 
 ADVENTURE CASTLE ha sido creado por un equipo de dos desarrolladores talentosos que han trabajado conjuntamente para brindar esta experiencia única.
 
-Creador 1 : Cristian Roldan     -   https://github.com/r0ld4n11 
-                                    Programación & interfaz gràfica
-Creador 2 : Sonia Méndez        -   https://github.com/smendez2023
-                                    Programación & interfaz gràfica
+Creador 1 : Cristian Roldan     -   https://github.com/r0ld4n11    -      Programación & interfaz gràfica
+
+Creador 2 : Sonia Méndez        -   https://github.com/smendez2023 -      Programación & interfaz gràfica
+                                    
 Colaborador :  Jesús M. Domínguez   * Idea Origial
 
 ## Comenzando 🚀 Configuración básica
