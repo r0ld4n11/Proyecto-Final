@@ -49,7 +49,7 @@ Descarga los ficheros adjuntos, para ejecutar aventura narrativa, abre inicio.py
 
 ##  Agradecimientos 🎁
 
-Nos gustaría expresar nuestro agradecimiento a todas las personas que han contribuido a este proyecto y a aquellos que han brindado su apoyo y feedback. En especial Arnau, sin su ayuda, ADVENTURE CASTLE no habría sido posible. ¡Esperamos que disfrutes del juego y te sumerjas en la emocionante historia que hemos creado!
+Nos gustaría expresar nuestro agradecimiento a todas las personas que han contribuido a este proyecto y a aquellos que han brindado su apoyo y feedback. En especial **Arnau**, sin su ayuda, ADVENTURE CASTLE no habría sido posible. ¡Esperamos que disfrutes del juego y te sumerjas en la emocionante historia que hemos creado!
 
 Si tienes alguna pregunta o comentario, no dudes en contactarnos.
 
