@@ -5,6 +5,7 @@ guizero==1.4.0
 pygame==2.0.1
 pip install guizero
 pip install pygame
+pip insatll pillow
 pip install -r requirements.txt
 
 
