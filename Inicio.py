@@ -37,7 +37,7 @@ def Inicio():
         if personaje == personaje1:
             C.HistoriaCaballero(inicio, personaje)
         else:
-            P.Historia_Princesa(inicio, personaje)
+            P.historia_princesa(inicio)
        
     elegir = PushButton(inicio, text= "Elegir personaje", command= Elegir_Personaje)
     aleatorio = PushButton(inicio, text= "Personaje aleatorio", command= Personaje_Aleatorio)
